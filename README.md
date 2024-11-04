@@ -3,7 +3,7 @@
 ### 🚀 About Me
 Welcome to my GitHub profile! I’m a **passionate coder**, dedicated **hacker**, and **cybersecurity enthusiast** driven by a relentless curiosity for all things tech. My journey encompasses **Java development**, **cybersecurity projects**, and an ongoing quest to become a **DevOps Lead** or **Cybersecurity Expert**.
 
-[Visit My Website](https://yourwebsite.com)
+[Visit My Website](https://resume.lakshmibhaskar.run.place/)
 
 ### 💻 What I'm Up To
 - **Java Development**: Working on projects that push my skills and deepen my understanding of programming.
@@ -32,14 +32,6 @@ Welcome to my GitHub profile! I’m a **passionate coder**, dedicated **hacker**
 ### 🎬 Personal Side
 - **Movies**: Huge fan of **Tom Cruise** and the **Mission Impossible** series.
 - **Hobbies**: Coding as a passion project, listening to **Narvent** tracks (especially when it rains), and engaging in tech explorations.
-- **Gaming**: Running a **Minecraft server** loaded with custom plugins for enhanced gameplay.
-
-### 🌱 Sustainability in Tech
-I incorporate sustainable practices in my projects, ensuring that **Reduce, Reuse, Recycle** is more than just a motto. I believe in **rethinking** processes to minimize tech waste and advocate for a greener future.
-
-### 📚 Education & Recognition
-- **Student at**: *Kennedy High The Global School*, Medchal, Hyderabad.
-- **Known for**: Being the **"IT Hacker"** of Class 9, where I lead with curiosity and innovative spirit.
 
 ### 📫 Connect with Me
 - **Website**: [Visit Here](https://yourwebsite.com)
